@@ -1,0 +1,10 @@
+@import 'styles/navbar.scss';
+@import 'styles/webglcanvas.scss';
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Fira Sans', sans-serif;
+}
